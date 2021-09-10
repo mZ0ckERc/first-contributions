@@ -17,6 +17,7 @@
 - [Sebastiaan Simons](https://github.com/SebastiaanSimons)
 - [Dineshkumar Sundaram](https://github.com/dineshh912/)
 - [vaibhav]
+- [mZ0ckERc]
 - [TyerLockwood]
 - [Lewis Hill](https://github.com/lewy192)
 - Magni Mar Magnason
